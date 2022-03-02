@@ -6,7 +6,7 @@
   <link href="https://vpiar.github.io/atom.xml" rel="self"/>
   
   <link href="https://vpiar.github.io/"/>
-  <updated>2022-02-24T01:43:11.672Z</updated>
+  <updated>2022-03-02T14:00:15.436Z</updated>
   <id>https://vpiar.github.io/</id>
   
   <author>
@@ -17,39 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>hello,Hexo</title>
-    <link href="https://vpiar.github.io/2022/02/24/hello-Hexo/"/>
-    <id>https://vpiar.github.io/2022/02/24/hello-Hexo/</id>
-    <published>2022-02-24T01:42:16.000Z</published>
-    <updated>2022-02-24T01:43:11.672Z</updated>
+    <title></title>
+    <link href="https://vpiar.github.io/2022/03/02/vpiar/"/>
+    <id>https://vpiar.github.io/2022/03/02/vpiar/</id>
+    <published>2022-03-02T14:00:15.436Z</published>
+    <updated>2022-03-02T14:00:15.436Z</updated>
     
-    <content type="html"><![CDATA[<p>hello,Hexo</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;hello,Hexo&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="https://vpiar.github.io/2022/02/24/hello-world/"/>
-    <id>https://vpiar.github.io/2022/02/24/hello-world/</id>
-    <published>2022-02-24T01:15:56.218Z</published>
-    <updated>2022-02-24T01:15:56.218Z</updated>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<p>##First post<br>Hello world!</p><p>Okay, this is my blog’s first post. I’m not sure what should be write here, so this page may be a normal self-introduction.<br>I don’t want to leave my real name on the Internet.<br>This is not safe, and I want to say something that I dare not say in reality.<br>Therefore, it is best to remain anonymous.<br>(I can’t believe that Facebook banned my account just because I wanted to change my name.)</p><p>Before you continue reading, remember that I will not always tell the truth.</p><p>So,where should we begin?<br>How about…</p><p>####Why are you want to write this?<br>The truth is I don’t want to write anything.<br>:But my college notice me that my graduate has been delay, cause my credit isn’t enough.<br>But my university informed me that my graduation was delayed because I didn’t have enough credits.<br>And one of the reasons is that my English is terrible.<br>So I have to learn it, listen, speak, read, and write.<br>This is write.</p><p>(to be continued)</p>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+    <summary type="html">&lt;p&gt;##First post&lt;br&gt;Hello world!&lt;/p&gt;
+&lt;p&gt;Okay, this is my blog’s first post. I’m not sure what should be write here, so this page may be a nor</summary>
       
     
     
