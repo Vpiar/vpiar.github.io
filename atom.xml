@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Vpiar&#39;s Blog</title>
   
-  
+  <subtitle>A normal human&#39;s life</subtitle>
   <link href="https://vpiar.github.io/atom.xml" rel="self"/>
   
   <link href="https://vpiar.github.io/"/>
-  <updated>2022-03-02T14:17:24.630Z</updated>
+  <updated>2022-03-22T14:17:44.214Z</updated>
   <id>https://vpiar.github.io/</id>
   
   <author>
@@ -17,19 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://vpiar.github.io/2022/03/02/First-Post/"/>
-    <id>https://vpiar.github.io/2022/03/02/First-Post/</id>
-    <published>2022-03-02T14:16:01.889Z</published>
-    <updated>2022-03-02T14:17:24.630Z</updated>
+    <title>First Post</title>
+    <link href="https://vpiar.github.io/2022/03/22/First-Post/"/>
+    <id>https://vpiar.github.io/2022/03/22/First-Post/</id>
+    <published>2022-03-22T14:17:44.214Z</published>
+    <updated>2022-03-22T14:17:44.214Z</updated>
     
-    <content type="html"><![CDATA[<p>Hello everyone!</p><p>Okay, this is my blog’s first post. I’m not sure what should be write here, so this page may be a normal self-introduction.<br>I don’t want to leave my real name on the Internet.<br>This is not safe, and I want to say something that I dare not say in reality.<br>Therefore, it is best to remain anonymous.<br>(I can’t believe that Facebook banned my account just because I wanted to change my name.)</p><p>Before you continue reading, remember that I will not always tell the truth.</p><p>So,where should we begin?<br>How about…</p><p>####Why are you want to write this?<br>The truth is I don’t want to write anything.<br>:But my college notice me that my graduate has been delay, cause my credit isn’t enough.<br>But my university informed me that my graduation was delayed because I didn’t have enough credits.<br>And one of the reasons is that my English is terrible.<br>So I have to learn it, listen, speak, read, and write.<br>This is write.</p><p>(to be continued)</p>]]></content>
+    <content type="html"><![CDATA[<p>Hello everyone!</p><p>Okay, this is my blog’s first post. I’m not sure what should be writing here, so this page may be a normal self-introduction.<br>I don’t want to leave my real name on the Internet.<br>This is not safe, and I want to say something that I dare not say in reality.<br>Therefore, it is best to remain anonymous.<br>(I can’t believe that Facebook banned my account just because I wanted to change my name.)</p><p>Before you continue reading, remember that I will not always tell the truth.</p><p>So,where should we begin?<br>How about…</p><p>###Why are you want to write this?<br>The truth is I don’t want to write anything.<br>But my university informed me that my graduation was delayed because I didn’t have enough credits.<br>And one of the reasons is that my English is terrible.<br>So I have to learn it, listen, speak, read, and write.<br>This is write.</p><p>(to be continued……or not? I may rewrite this page later.)</p>]]></content>
     
     
       
       
     <summary type="html">&lt;p&gt;Hello everyone!&lt;/p&gt;
-&lt;p&gt;Okay, this is my blog’s first post. I’m not sure what should be write here, so this page may be a normal self-intr</summary>
+&lt;p&gt;Okay, this is my blog’s first post. I’m not sure what should be writing here, so this page may be a normal self-in</summary>
       
     
     
